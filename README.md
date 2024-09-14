@@ -1,13 +1,19 @@
+## Bikeshare Analysis Program
 
 ### Date created:
 September 13, 2014
 
-### Project Title
-Bikeshare Analysis Program
-
 ### Description
-This project will analyze bike share data from different cities to present statistics based on various month and days parameters that are selected by user.  
+This project will analyze bike share data from three different cities from the .csv files listed below to present statistics based on various parameters selected by user.  
 
+### Datasets 
+ Files are attached and available to download below:
+
+`chicago.csv` - Provided by Udacity.
+
+`new_york_city.csv` - Provided by Udacity.
+
+`washington.csv` - Provided by Uadacity. 
 
 ### Files used
 bikeshare.py

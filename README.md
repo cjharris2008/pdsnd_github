@@ -4,10 +4,10 @@
 September 13, 2014
 
 ### Description
-This project will analyze bike share data from three different cities from the .csv files listed below to present statistics based on various parameters selected by user.  
+This project will analyze selected bike share data from the database files listed below to present statistics based on various parameters selected by user.  
 
 ### Datasets 
- Files are attached and available to download below:
+ These files have been attached to the repository and will be required for the program to function correctly.
 
 `chicago.csv` - Provided by Udacity.
 
@@ -17,6 +17,12 @@ This project will analyze bike share data from three different cities from the .
 
 ### Files used
 bikeshare.py
+
+### The following librarires are used in this project:
+1. Time
+2. NumPy
+3. Pandas 
+
 
 ### Credits
 a.  UDACITY Programming for Data Science with Python

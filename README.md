@@ -23,6 +23,8 @@ bikeshare.py
 2. NumPy
 3. Pandas 
 
+#### Disclaimer
+Project material was provided as UDACITY as part of their Data Science with Python curriculum.
 
 ### Credits
 a.  UDACITY Programming for Data Science with Python

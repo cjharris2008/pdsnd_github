@@ -167,6 +167,7 @@ def user_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
+#loads filter data, displays raw data (if requested), prints statistics, and ask if user if they would like to restart. 
 def main():
     while True:
         city, month, day, fivelines = get_filters()

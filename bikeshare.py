@@ -12,7 +12,7 @@ def get_filters():
 
     while True:
         print("\nWhich city would you like to review? \nCurrent options are: 'Chicago', 'New York City', or 'Washington'.") 
-        city = input("Please type your selection here: ").lower()
+        city = input("Please enter your selection here: ").lower()
         if city in CITY_DATA:
             break
         else:

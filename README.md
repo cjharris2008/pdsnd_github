@@ -24,7 +24,7 @@ bikeshare.py
 3. Pandas 
 
 ### Disclaimer
-Project material was provided as UDACITY as part of their Data Science with Python curriculum.
+Project material was provided by UDACITY as part of their Data Science with Python curriculum.
 
 ### Credits
 Big thanks to UDACITY, their instructor, and the Programming for Data Science with Python course curriculum!

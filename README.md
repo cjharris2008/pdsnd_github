@@ -7,7 +7,7 @@ September 13, 2014
 This project will analyze bike share data from the database files listed below and present statistics based on various parameters that are selected by the user.  
 
 ### Datasets 
- These files have been attached to the repository and will be needed for the program to run correctly.
+ These files have been removed from the repository but will be needed for the program to run correctly.
 
 `chicago.csv` - Provided by Udacity.
 

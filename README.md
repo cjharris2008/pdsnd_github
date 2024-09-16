@@ -27,7 +27,7 @@ bikeshare.py
 Project material was provided by UDACITY as part of their Data Science with Python curriculum.
 
 ### Credits
-Big thanks to UDACITY, their instructor, and the Programming for Data Science with Python course curriculum!
+Big thanks to UDACITY, their instructors, and the Programming for Data Science with Python course curriculum!
 
 
 The book: Beginning Python From Novice to Professional Third Edition by Manus lie Hetland was also an extremely valuable reference.
